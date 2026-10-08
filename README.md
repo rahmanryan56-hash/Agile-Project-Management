@@ -27,6 +27,10 @@ The proposed application aimed to help Sky employees find and contact engineerin
 
 The project involved designing a clickable, high-fidelity web application prototype to demonstrate the proposed user experience, interface layout, navigation and key functionality.
 
+## Video Demonstration
+
+Watch the project demonstration: [View the Sky Prototype Demo on Canva](https://www.canva.com/design/DAGj5JLWFiE/FFk8bNpILmz6lJS5e0NPRQ/watch?utm_content=DAGj5JLWFiE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce8232aade)
+
 ## Professional Considerations
 
 The coursework also considered user feedback, ethical and professional issues, and relevant information systems concerns, including security and legislation.
